@@ -1,3 +1,4 @@
+package easyQuestions;
 
 import java.util.HashMap;
 
